@@ -1,0 +1,24 @@
+Algorith Steps for a Calculator
+
+Step1: Start the Calculator
+Step2: Tell the user to input the first number
+Step3: Tell the user to input a mathematical operator
+Step4: The user must input the second number
+Step5: Perform the selected calculations by pressing the assign operator
+Step6: Display the answer
+Step7: Stop
+
+
+
+SORTING NUMBERS
+
+ 1, 7, 34, 5 , 3 , 20 
+From small to big
+Step1: Compare the numbers
+Step2: Identify the smallest number (1)
+Step3: Identify the next smallest number (3)
+Step4: Identify the next smallest number (5)
+Step5: Identify the next smallest number (7)
+Step6: Identify the next smallest number (20)
+Step7: Identify the largest number (34)
+Step8: Display the numbers in ascending order from 1 till 34
