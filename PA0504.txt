@@ -1,0 +1,6 @@
+WHAT IS AN INTERPRETR
+
+An interpreter is a program that directly reads and executes 
+your human-readable source code line-by-line, translating it into machine code on the fly. 
+Instead of converting the whole program into an executable file before running it,
+ interpreters execute the code instantly and pause only when they hit an error.
